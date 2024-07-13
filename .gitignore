@@ -31,9 +31,16 @@ wp-config.php
 
 # Log files
 *.log
+debug.log
+error_log
 
 # htaccess
 /.htaccess
+
+# OS files
+.DS_Store
+Thumbs.db
+
 
 # All plugins
 #
